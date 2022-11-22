@@ -6,7 +6,7 @@
 title: JiangH的博客
 subtitle: ''
 description: '欢迎来到我的博客~~'
-keywords:
+keywords: JiangH
 author: JiangH
 language: en
 timezone: ''
@@ -104,5 +104,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/JiangH156/JiangH156.github.io.git
+  repo: git@github.com:JiangH156/JiangH156.github.io.git
   branch: main

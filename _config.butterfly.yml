@@ -96,11 +96,11 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
+  img: /img/avatar.png
   effect: false # 头像会一直转圈
 
 # Disable all banner image
-disable_top_img: false
+disable_top_img: true
 
 # The banner image of home page
 index_img:
@@ -517,7 +517,7 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background:
+background: url(/img/网站背景.jpeg)
 
 # Footer Background
 footer_bg: false
@@ -538,18 +538,18 @@ canvas_ribbon:
   size: 150
   alpha: 0.6
   zIndex: -1
-  click_to_change: false
-  mobile: false
+  click_to_change: true
+  mobile: true
 
 # Fluttering Ribbon (動態彩帶)
 canvas_fluttering_ribbon:
-  enable: false
+  enable: true
   mobile: false
 
 # canvas_nest
 # https://github.com/hustcc/canvas-nest.js
 canvas_nest:
-  enable: false
+  enable: true
   color: '0,0,255' #color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
   opacity: 0.7 # the opacity of line (0~1), default: 0.5.
   zIndex: -1 # z-index property of the background, default: -1.
@@ -577,11 +577,13 @@ click_heart:
 
 # Mouse click effects: words (鼠標點擊效果: 文字)
 ClickShowText:
-  enable: false
+  enable: true
   text:
-    # - I
-    # - LOVE
-    # - YOU
+    - I
+    - LOVE
+    - YOU
+    - 木同
+    - JH
   fontSize: 15px
   random: false
   mobile: false
