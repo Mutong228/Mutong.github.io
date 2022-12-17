@@ -517,7 +517,8 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(/img/网站背景.jpeg)
+background: 
+# url(/img/网站背景.jpeg)
 
 # Footer Background
 footer_bg: false
@@ -702,7 +703,7 @@ busuanzi:
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
   enable: true
-  publish_date:
+  publish_date: 2022/7/22
 
 # Aside widget - Newest Comments
 newest_comments:
