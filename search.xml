@@ -107,25 +107,6 @@
     
     
     <entry>
-      <title>SSM学习笔记</title>
-      <link href="/2022/12/10/SSM/"/>
-      <url>/2022/12/10/SSM/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> SSM </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Mysql</title>
       <link href="/2022/12/10/Mysql/"/>
       <url>/2022/12/10/Mysql/</url>
@@ -151,27 +132,6 @@
     
     
     <entry>
-      <title>Mybatis和Mybatis-Plus</title>
-      <link href="/2022/12/10/MybatisAndMybatis-plus/"/>
-      <url>/2022/12/10/MybatisAndMybatis-plus/</url>
-      
-        <content type="html"><![CDATA[<h1 id="Mybatis篇"><a href="#Mybatis篇" class="headerlink" title="Mybatis篇"></a>Mybatis篇</h1><p><a href="https://blog.csdn.net/li643937579/article/details/109194467">https://blog.csdn.net/li643937579/article/details/109194467</a></p><h1 id="Mybatis-plus篇"><a href="#Mybatis-plus篇" class="headerlink" title="Mybatis-plus篇"></a>Mybatis-plus篇</h1><h1 id="补充"><a href="#补充" class="headerlink" title="补充"></a>补充</h1>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> Mybatis </tag>
-            
-            <tag> Mybatis-Plus </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Maven</title>
       <link href="/2022/12/10/Maven/"/>
       <url>/2022/12/10/Maven/</url>
@@ -189,31 +149,6 @@
         <tags>
             
             <tag> Maven </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Linux</title>
-      <link href="/2022/12/10/Linux/"/>
-      <url>/2022/12/10/Linux/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> Linux </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Linux </tag>
             
         </tags>
       
